@@ -29,7 +29,8 @@ In the future future improvements could be made by providing a toggle button for
 ***
 
 # License information: 
-The starter files for this project is under MIT license:
+The starter files for this project are under MIT license:  
+
 MIT License
 
 Copyright (c) 2020 John Williams
